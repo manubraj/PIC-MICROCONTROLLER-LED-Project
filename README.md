@@ -250,7 +250,7 @@ void main(void) {
 
 ## 📸 Circuit Diagram
 
-![image alt] (https://github.com/manubraj/PIC-MICROCONTROLLER-LED-Project/blob/eb545778c5121e664fb2da37058bc3d13022d89a/led%20blink.png)
+ ![image alt](https://github.com/manubraj/PIC-MICROCONTROLLER-LED-Project/blob/eb545778c5121e664fb2da37058bc3d13022d89a/led%20blink.png)
 ---
 
 ## 📄 License
